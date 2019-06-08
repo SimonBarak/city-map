@@ -1,0 +1,81 @@
+//
+// component: side-box
+//________________________
+.side-box {
+  padding: 20px;
+  position: relative;
+
+  display: none;
+
+  &.open {
+    display: block;
+  }
+
+  // @media (min-width: 960px) {
+  //   overflow-y: scroll;
+  //   position: absolute;
+  //   width: 30%;
+  //   max-width: 400px;
+  //   min-width: 100px;
+  // }
+}
+
+.left-right {
+  display: flex;
+  & > div:first-child {
+    flex-grow: 1;
+  }
+}
+
+.btn-entry {
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px 0px grey;
+  margin-bottom: 10px;
+  display: block;
+  transition: box-shadow 0.3s ease-in;
+  cursor: pointer;
+  color: black;
+
+  &:hover {
+    box-shadow: 1px 1px 5px 0px grey;
+    text-decoration: none;
+  }
+}
+
+.icon-sm {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+
+  img {
+    width: 100%;
+    vertical-align: top;
+  }
+}
+
+.m-b-1 {
+  margin-bottom: 1em;
+}
+
+.m-b-2 {
+  margin-bottom: 2em;
+}
+
+.nav-link {
+  font-size: 2em;
+  color: white;
+  text-decoration: none;
+
+  &:hover {
+    color: #828282;
+  }
+
+  &:visited {
+    color: white;
+  }
+}
+
+.icon-lg {
+  width: 5em;
+}

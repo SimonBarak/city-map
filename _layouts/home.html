@@ -1,0 +1,14 @@
+---
+layout: base
+---
+
+<div class="home">
+  <section class="control-container">
+    {%- include side-box-home.html -%} {%- for project in site.projects -%}
+    {%-include side-box-contend.html -%} {%-endfor -%}
+  </section>
+
+  <section id="map-container" class="map-container">
+    <div id="map"></div>
+  </section>
+</div>

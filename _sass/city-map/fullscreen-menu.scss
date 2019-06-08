@@ -1,0 +1,58 @@
+//
+// component: full-menu
+//________________________
+.site-header {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 10, 0.8);
+  border: none;
+  z-index: 10;
+
+  left: -100vw;
+  opacity: 0;
+  transition: opacity 0.3s ease-in;
+
+  .open & {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+.page-content {
+  transition: opacity 0.3s ease-in;
+  .open & {
+    filter: blur(7px);
+  }
+}
+
+.trigger {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav {
+  @include relative-font-size(1.625);
+  margin: 40px 0;
+  float: none;
+}
+
+$c-goto: rgba(0, 220, 100, 1);
+
+.btn-goto {
+  background-color: $c-goto;
+  color: white;
+  padding: 0.7em 1em;
+  border-radius: 0.5em;
+
+  &:hover {
+    color: white;
+    text-decoration: none;
+    background-color: darken($c-goto, 10%);
+  }
+
+  &:visited {
+    color: white;
+  }
+}

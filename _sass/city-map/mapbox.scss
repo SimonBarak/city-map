@@ -1,0 +1,12 @@
+.marker {
+  width: 3rem;
+  height: 3rem;
+  background-color: black;
+  cursor: pointer;
+}
+
+.img-round {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+}

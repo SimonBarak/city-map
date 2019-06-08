@@ -1,0 +1,20 @@
+{
+  "name": "city-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lonersCompany/city-map.git",
+  "author": "Schittaci-air <barak.simon.as@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-loader": "^8.0.6",
+    "jquery": "^3.4.1",
+    "mapbox-gl": "^1.0.0",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "start": "webpack --watch | bundle exec jekyll serve"
+  }
+}

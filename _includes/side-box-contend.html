@@ -1,0 +1,24 @@
+<div
+  class="side-box map-location"
+  data-lon="{{ project.coordinates.lon }}"
+  data-lat="{{ project.coordinates.lat }}"
+>
+  <div class="header-sm">
+    <div class="icon-cross">
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  <div class="icon icon-lg">
+    <img src="{{ project.icon }}" alt="author" />
+  </div>
+  <h1>
+    {{ project.title | escape }}
+  </h1>
+  <p class="post-meta">• {{ project.author }}</p>
+
+  {{ project.excerpt }}
+  <p>
+    <a class="btn-goto" href="{{ project.url | relative_url }}">Čtěte dále</a>
+  </p>
+</div>
