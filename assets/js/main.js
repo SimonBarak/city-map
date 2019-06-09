@@ -63,7 +63,7 @@ var geojson = siteBoxesArray.map(createGeoJason);
 geojson.forEach((marker, index) => {
   // create a DOM element for the marker
   var el = document.createElement("div");
-  el.innerHTML = `<img src="/city-map/${marker.properties.icon}"> `;
+  el.innerHTML = `<img src="${marker.properties.icon}"> `;
   el.className = "marker icon img-round";
 
   addMapListener({
