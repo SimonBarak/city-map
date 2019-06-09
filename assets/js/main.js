@@ -37,9 +37,6 @@ const addMapListener = obj => {
   });
 };
 
-mapboxgl.accessToken =
-  "pk.eyJ1IjoibG9uZXJzY29tcGFueSIsImEiOiJjandqNTlsYXIwNjduNDRwNjhkemhhZXVtIn0.c2PlH4OqBZUOQgDM4hg7fw";
-
 const map = new mapboxgl.Map({
   container: "map",
   style: "mapbox://styles/lonerscompany/cjwjajpvb1ly61cnqacst6b3k",
