@@ -1,16 +1,17 @@
 const path = require("path");
 
 module.exports = {
-  entry: path.join(__dirname, "production", "main"),
+  mode: "production",
+  entry: path.join(__dirname, "src", "index"),
   output: {
     filename: "main-bundle.js",
     path: path.resolve(__dirname, "assets/js")
   },
-  mode: "production",
+
   module: {
     rules: [
       {
-        test: /\.jsx?$/,
+        test: /\.js?$/,
         exclude: /(node_modules)/,
         loader: "babel-loader",
         query: {
