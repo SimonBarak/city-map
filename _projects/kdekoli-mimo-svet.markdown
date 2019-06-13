@@ -9,8 +9,8 @@ coordinates:
   lat: 48.208772
 icon: "/assets/icons/icon-chill.png"
 language: CZ
-lat: 
-lon: 
+lat: 48.208772
+lon: 19.34929
 image: https://placekitten.com/600/300
 
 ---
