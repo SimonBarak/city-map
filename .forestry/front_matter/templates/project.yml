@@ -5,12 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
 - type: text
   name: categories
   label: categories
+  hidden: true
 - type: text
   name: author
   label: author
@@ -30,3 +32,4 @@ fields:
 - type: text
   name: language
   label: language
+  hidden: true
