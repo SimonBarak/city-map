@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Statut města"
+title: Statut města
 categories: article
 author: Lumír Nykl
 lon: 19.355617
 lat: 48.207051
-icon: /assets/icons/icon-nose.png
+icon: "/assets/icons/icon-nose.png"
 language: CZ
 image: https://placekitten.com/600/300
----
 
+---
 Život krtka, to je temný svět pod zemí bez přívodu denního světla a slunečních paprsků. Staví křivolaké uličky, které slouží jako past, do níž se má kořist chytnout. Krtek je drsný a nemilosrdný. Krtek vidí svět nosem.
 
 V zámecké expozici loutek varuje průvodce s razancí loutkovodiče: “Už tu bolo niekoľko takých, ktorí sa chytali vecí a zle to s nimi dopadlo.” Takových Pražáků, chtělo by se říct.

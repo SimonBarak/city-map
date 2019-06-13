@@ -44,4 +44,5 @@ fields:
     max: 
     step: 
 pages:
+- _projects/bb.markdown
 - _projects/kdekoli-mimo-svet.markdown
