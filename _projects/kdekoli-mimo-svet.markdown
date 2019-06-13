@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Kdekoli mimo svět: Ekonomie plýtvání, nepodmíněné slunění a odpočinek jako zbraň"
+title: 'Kdekoli mimo svět: Ekonomie plýtvání, nepodmíněné slunění a odpočinek jako
+  zbraň'
 categories: article
-author: "Noemi Purkrábková a Jiří Sirůček"
-lon: 19.34929
-lat: 48.208772
-icon: /assets/icons/icon-chill.png
+author: Noemi Purkrábková a Jiří Sirůček
+coordinates:
+  lon: 19.34929
+  lat: 48.208772
+icon: "/assets/icons/icon-chill.png"
 language: CZ
+lat: 
+lon: 
 image: https://placekitten.com/600/300
----
 
+---
 Nápad na tento text se zrodil jednoho horkého letního dne na biokoupališti Krtko v městečku Velký Krtíš na jižním Slovensku. Desítky lidí se hřály na slunci nebo poléhavaly na trávě ve stínu slunečníků. Jakoby se chladivá voda proměnila v líně dýchající neuralgický bod celého okolí a své odpoledne tu trávilo celé město. Koupaliště se i pro nás stalo centrem pomyslné dostředivé dráhy – nakonec si nás vždycky přitáhlo zpátky…
 
 Jako návštěvníci z mnohem většího města, kteří teprve před několika hodinami vystoupili po půldenní cestě na Krtíšské autobusové zastávce, jsme měli potřebu nějak reflektovat pozici, z níž o něm můžeme mluvit, aniž bychom poučovali nebo romantizovali. A právě tady, uprostřed uspávajícího tepla a tlumených zvuků vody, jsme si uvědomili, že je možná lepší neptat se, “co můžeme udělat pro Krtíš”, ale v duchu přesného obrácení slavného Kennedyho citátu si naopak položit otázku: “co může Krtíš udělat pro nás”? Taková pozice není samozřejmě motivována jen snahou něco získat pro sebe, ale především pro nás znamenala možnost, jak se zříct arogantního předpokladu, že máme automaticky sami co nabídnout. Myšlenka, že jdeme něco udělat pro Krtíš totiž zní honosně, ale (nejen) v naší situaci by v sobě nutně nesla povýšenost. Velký Krtíš nás sice zajímal právě proto, že se v něm vyjevují mnohé problémy post-industrální a post-privatizační pozdně kapitalistické společnosti, ale zdálo se nám nemístné prostě přijet a začít kritizovat. Rozhodli jsme se proto změnit perspektivu: Co když Krtíš nejen nečeká na naše “rady”, ale naopak může nabídnout něco, co i my sami postrádáme?
