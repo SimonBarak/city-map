@@ -1,13 +1,16 @@
 <div
   class="side-box map-location"
-  data-lon="{{ project.coordinates.lon }}"
-  data-lat="{{ project.coordinates.lat }}"
+  data-lon="{{ project.lon }}"
+  data-lat="{{ project.lat }}"
 >
   <div class="header-sm">
     <div class="icon-cross">
       <span></span>
       <span></span>
     </div>
+  </div>
+  <div>
+    <img src="{{ project.image }}" alt="{{ project.title }}" />
   </div>
   <div class="icon icon-lg">
     <img src="/city-map{{ project.icon }}" alt="author" />
