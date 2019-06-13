@@ -1,0 +1,32 @@
+---
+label: project
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: author
+  label: author
+- type: field_group
+  name: coordinates
+  label: coordinates
+  fields:
+  - type: number
+    name: lon
+    label: lon
+  - type: number
+    name: lat
+    label: lat
+- type: file
+  name: icon
+  label: icon
+- type: text
+  name: language
+  label: language
