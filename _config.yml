@@ -26,6 +26,9 @@ collections:
   projects:
     output: true
 
+# images and cloudinary
+img_url: "https://res.cloudinary.com/dhxmg9p4i/image/upload/"
+
 # Build settings
 markdown: kramdown
 theme: minima
