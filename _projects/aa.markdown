@@ -5,7 +5,7 @@ categories: jekyll update
 author: Martina Růžičková
 lon: 19.352755
 lat: 48.211324
-icon: "/assets/icons/icon-worker.png"
+icon: media/v1560445161/uploads/simi-obrazek.png
 language: SK
 image: https://placekitten.com/600/300
 
