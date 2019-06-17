@@ -44,6 +44,7 @@ fields:
     max: 
     step: 
 pages:
+- _projects/aa.markdown
 - _projects/článek-z-forestry.md
 - _projects/bb.markdown
 - _projects/kdekoli-mimo-svet.markdown
