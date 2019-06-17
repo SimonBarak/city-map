@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 'Kdekoli mimo svět: Ekonomie plýtvání, nepodmíněné slunění a odpočinek jako
-  zbraň'
+title:
+  "Kdekoli mimo svět: Ekonomie plýtvání, nepodmíněné slunění a odpočinek jako
+  zbraň"
 categories: article
 author: Noemi Purkrábková a Jiří Sirůček
-coordinates:
-  lon: 19.34929
-  lat: 48.208772
 icon: "/assets/icons/icon-chill.png"
 language: CZ
 lat: 48.208772
 lon: 19.34929
-image: https://placekitten.com/600/300
-
+image: https://placekitten.com/600/301
 ---
+
 Nápad na tento text se zrodil jednoho horkého letního dne na biokoupališti Krtko v městečku Velký Krtíš na jižním Slovensku. Desítky lidí se hřály na slunci nebo poléhavaly na trávě ve stínu slunečníků. Jakoby se chladivá voda proměnila v líně dýchající neuralgický bod celého okolí a své odpoledne tu trávilo celé město. Koupaliště se i pro nás stalo centrem pomyslné dostředivé dráhy – nakonec si nás vždycky přitáhlo zpátky…
 
 [300](https://placekitten.com/600/300 "300")

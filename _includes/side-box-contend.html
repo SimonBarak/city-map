@@ -3,25 +3,30 @@
   data-lon="{{ project.lon }}"
   data-lat="{{ project.lat }}"
 >
-  <div class="header-sm">
-    <div class="icon-cross">
-      <span></span>
-      <span></span>
+  <header>
+    <div class="header-sm">
+      <div class="icon-cross">
+        <span></span>
+        <span></span>
+      </div>
     </div>
-  </div>
-  <div>
-    <img src="{{ project.image }}" alt="{{ project.title }}" />
-  </div>
-  <div class="icon icon-lg">
-    <img src="/city-map{{ project.icon }}" alt="author" />
-  </div>
-  <h1>
-    {{ project.title | escape }}
-  </h1>
-  <p class="post-meta">• {{ project.author }}</p>
+    <div>
+      <img src="{{ project.image }}" alt="{{ project.title }}" />
+    </div>
+  </header>
 
-  {{ project.excerpt }}
-  <p>
-    <a class="btn-goto" href="{{ project.url | relative_url }}">Čtěte dále</a>
-  </p>
+  <section class="m-15">
+    <div class="icon icon-lg">
+      <img src="/city-map{{ project.icon }}" alt="author" />
+    </div>
+    <h1>
+      {{ project.title | escape }}
+    </h1>
+    <p class="post-meta">• {{ project.author }}</p>
+
+    {{ project.excerpt }}
+    <p>
+      <a class="btn-goto" href="{{ project.url | relative_url }}">Čtěte dále</a>
+    </p>
+  </section>
 </div>

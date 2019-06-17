@@ -1,34 +1,36 @@
 <div class="side-box side-box-home open">
-  <div class="icon icon-lg m-b-1">
-    <img src="{{ "/assets/icons/icon-hellou.png" | relative_url }}" alt="author"
-    />
-  </div>
-  <h1 class="m-b-1">
-    Zapoměli jsme odbočit.
-  </h1>
-  <div class="caption">
-    <p class="m-b-2">{{- site.description | escape -}}</p>
-  </div>
-  <p class="excerpt">
-    Články
-  </p>
-  {%- for project in site.projects -%}
-  <a
-    class="btn btn-entry map-entry"
-    data-lon="{{ project.coordinates.lon }}"
-    data-lat="{{ project.coordinates.lat }}"
-  >
-    <h2>
-      {{ project.title | escape }}
-    </h2>
-    <div class="excerpt left-right">
-      <div>
-        {{ project.author }}
-      </div>
-      <div>
-        {{ project.language }}
-      </div>
+  <section class="m-15">
+    <div class="icon icon-lg m-b-1">
+      <img src="{{ "/assets/icons/icon-hellou.png" | relative_url }}"
+      alt="author" />
     </div>
-  </a>
-  {%- endfor -%}
+    <h1 class="m-b-1">
+      Zapoměli jsme odbočit.
+    </h1>
+    <div class="caption">
+      <p class="m-b-2">{{- site.description | escape -}}</p>
+    </div>
+    <p class="excerpt">
+      Články
+    </p>
+    {%- for project in site.projects -%}
+    <a
+      class="btn btn-entry map-entry"
+      data-lon="{{ project.lon }}"
+      data-lat="{{ project.lat }}"
+    >
+      <h2>
+        {{ project.title | escape }}
+      </h2>
+      <div class="excerpt left-right">
+        <div>
+          {{ project.author }}
+        </div>
+        <div>
+          {{ project.language }}
+        </div>
+      </div>
+    </a>
+    {%- endfor -%}
+  </section>
 </div>

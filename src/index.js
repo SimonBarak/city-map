@@ -109,7 +109,9 @@ if (mapEl) {
   // 2. index
   // 3. Coordinates
   // 4. Zoom
+  //yarn audible-converter "./21Lessonsforthe21stCentury_ep6.aax" -o "neco" -p "./" -l
   const mapEntryObjArray = mapEntryArray.forEach((el, index) => {
+    console.log(getCoordinates(el));
     const mapEntryObj = {
       element: el,
       index: index + 1,
