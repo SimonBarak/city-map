@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Článek z Forestry
 categories: ''
 author: Šimon Bařák
