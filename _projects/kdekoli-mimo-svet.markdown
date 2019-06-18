@@ -8,7 +8,7 @@ icon: "/v1560445161/uploads/simi-obrazek.png"
 language: CZ
 lat: 48.208772
 lon: 19.34929
-image: media/v1560858366/uploads/bcaa-2.png
+image: upload/v1560858366/uploads/bcaa-2.png
 
 ---
 Nápad na tento text se zrodil jednoho horkého letního dne na biokoupališti Krtko v městečku Velký Krtíš na jižním Slovensku. Desítky lidí se hřály na slunci nebo poléhavaly na trávě ve stínu slunečníků. Jakoby se chladivá voda proměnila v líně dýchající neuralgický bod celého okolí a své odpoledne tu trávilo celé město. Koupaliště se i pro nás stalo centrem pomyslné dostředivé dráhy – nakonec si nás vždycky přitáhlo zpátky…
