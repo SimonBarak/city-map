@@ -11,13 +11,13 @@
       </div>
     </div>
     <div>
-      <img src="{{ project.image }}" alt="{{ project.title }}" />
+      {%- include image.html -%}
     </div>
   </header>
 
   <section class="m-15">
     <div class="icon icon-lg">
-      <img src="/city-map{{ project.icon }}" alt="author" />
+      {%- include icon.html -%}
     </div>
     <h1>
       {{ project.title | escape }}

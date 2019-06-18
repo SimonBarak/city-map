@@ -5,11 +5,11 @@ categories: jekyll update
 author: Martina Růžičková
 lon: 19.352755
 lat: 48.211324
-icon: media/v1560445161/uploads/simi-obrazek.png
+icon: /v1560445161/uploads/simi-obrazek.png
 language: SK
-image: https://placekitten.com/600/300
-
+image: /v1538060226/stroboKAMASUTRA.jpg
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum

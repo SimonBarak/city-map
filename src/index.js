@@ -61,6 +61,7 @@ if (mapEl) {
   // Create geoJason Format
   const createGeoJason = (el, index) => {
     // get mark image src
+    console.log(el);
     const imageSRC = el.querySelector(".icon img").src;
 
     // get mark coordinates
@@ -84,6 +85,7 @@ if (mapEl) {
   geojson.forEach(marker => {
     // create a DOM element for the marker
     var el = document.createElement("div");
+    console.log(marker.properties.icon);
     el.innerHTML = `<img src="${marker.properties.icon}"> `;
     el.className = "marker icon img-round";
 
