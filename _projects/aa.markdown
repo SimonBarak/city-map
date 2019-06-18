@@ -7,7 +7,7 @@ lon: 19.352755
 lat: 48.211324
 icon: "/v1560445161/uploads/simi-obrazek.png"
 language: SK
-image: "/v1560859590/uploads/bcaa-1.png"
+image: "/v1560860301/uploads/bcaa-2.png"
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
