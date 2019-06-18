@@ -2,6 +2,15 @@
 label: project
 hide_body: false
 fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Main project image
+  description: Every project have one cover image
+- type: file
+  name: icon
+  label: icon
 - type: text
   name: title
   label: title
@@ -9,12 +18,6 @@ fields:
   name: categories
   label: categories
   hidden: true
-- type: text
-  name: author
-  label: author
-- type: file
-  name: icon
-  label: icon
 - type: text
   name: language
   label: language
@@ -40,15 +43,12 @@ fields:
     max: 
     step: 
 - type: text
+  name: author
+  label: author
+- type: text
   name: layout
   label: layout
   hidden: false
-- name: image
-  type: file
-  config:
-    maxSize: 250
-  label: Main project image
-  description: Every project have one cover image
 pages:
 - _projects/aa.markdown
 - _projects/článek-z-forestry.md
