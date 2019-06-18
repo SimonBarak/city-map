@@ -5,11 +5,11 @@ categories: article
 author: Lumír Nykl
 lon: 19.355617
 lat: 48.207051
-icon: /v1560445161/uploads/simi-obrazek.png
+icon: "/v1560445161/uploads/simi-obrazek.png"
 language: CZ
-image: /v1538060226/stroboKAMASUTRA.jpg
----
+image: media/v1560858366/uploads/bcaa-3.png
 
+---
 Život krtka, to je temný svět pod zemí bez přívodu denního světla a slunečních paprsků. Staví křivolaké uličky, které slouží jako past, do níž se má kořist chytnout. Krtek je drsný a nemilosrdný. Krtek vidí svět nosem.
 
 V zámecké expozici loutek varuje průvodce s razancí loutkovodiče: “Už tu bolo niekoľko takých, ktorí sa chytali vecí a zle to s nimi dopadlo.” Takových Pražáků, chtělo by se říct.
