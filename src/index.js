@@ -23,6 +23,8 @@ if (mapEl) {
     el.classList.contains("map-location")
   );
 
+  console.log(siteBoxesLocationsArray);
+
   // get map-entries
   const mapEntryArray = Array.from(
     document.getElementsByClassName("map-entry")
@@ -61,7 +63,6 @@ if (mapEl) {
   // Create geoJason Format
   const createGeoJason = (el, index) => {
     // get mark image src
-    console.log(el);
     const imageSRC = el.querySelector(".icon img").src;
 
     // get mark coordinates
@@ -85,7 +86,6 @@ if (mapEl) {
   geojson.forEach(marker => {
     // create a DOM element for the marker
     var el = document.createElement("div");
-    console.log(marker.properties.icon);
     el.innerHTML = `<img src="${marker.properties.icon}"> `;
     el.className = "marker icon img-round";
 
@@ -113,7 +113,6 @@ if (mapEl) {
   // 4. Zoom
   //yarn audible-converter "./21Lessonsforthe21stCentury_ep6.aax" -o "neco" -p "./" -l
   const mapEntryObjArray = mapEntryArray.forEach((el, index) => {
-    console.log(getCoordinates(el));
     const mapEntryObj = {
       element: el,
       index: index + 1,
@@ -131,8 +130,7 @@ if (mapEl) {
   // Add map event to all icon-cross
   // -------------------------------
   siteBoxesLocationsArray.forEach(el => {
-    const crossBtn = el.querySelector(".icon-cross");
-
+    const crossBtn = el.querySelector(".icon-close");
     const sideBoxCross = {
       element: crossBtn,
       index: 0,
@@ -143,6 +141,7 @@ if (mapEl) {
       }
     };
 
+    console.log(crossBtn);
     addMapEvent(sideBoxCross);
   });
 }

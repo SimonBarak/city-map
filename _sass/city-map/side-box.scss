@@ -83,3 +83,21 @@
 .icon-lg {
   width: 5em;
 }
+
+.icon-close {
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(100, 100, 100, 1);
+  background-color: rgba(100, 100, 100, 0.5);
+  border-radius: 50%;
+  cursor: pointer;
+  svg {
+    max-width: 40px;
+    padding-top: 21%;
+    padding-left: 10%;
+  }
+
+  svg path {
+    fill: black;
+  }
+}
