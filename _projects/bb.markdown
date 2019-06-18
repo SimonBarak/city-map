@@ -7,7 +7,7 @@ lon: 19.355617
 lat: 48.207051
 icon: "/v1560445161/uploads/simi-obrazek.png"
 language: CZ
-image: media/v1560858366/uploads/bcaa-3.png
+image: "/v1560860271/uploads/bcaa-3.png"
 
 ---
 Život krtka, to je temný svět pod zemí bez přívodu denního světla a slunečních paprsků. Staví křivolaké uličky, které slouží jako past, do níž se má kořist chytnout. Krtek je drsný a nemilosrdný. Krtek vidí svět nosem.
