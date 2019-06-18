@@ -3,10 +3,6 @@ label: project
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-  hidden: true
-- type: text
   name: title
   label: title
 - type: text
@@ -43,6 +39,12 @@ fields:
     min: 
     max: 
     step: 
+- type: text
+  name: layout
+  label: layout
+  hidden: false
 pages:
+- _projects/aa.markdown
+- _projects/článek-z-forestry.md
 - _projects/bb.markdown
 - _projects/kdekoli-mimo-svet.markdown
