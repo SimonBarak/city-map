@@ -43,6 +43,12 @@ fields:
   name: layout
   label: layout
   hidden: false
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Main project image
+  description: Every project have one cover image
 pages:
 - _projects/aa.markdown
 - _projects/článek-z-forestry.md
