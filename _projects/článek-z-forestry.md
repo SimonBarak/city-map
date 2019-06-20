@@ -3,7 +3,7 @@ layout: post
 title: Článek z Forestry
 categories: ''
 author: Šimon Bařák
-icon: "/v1560445161/uploads/simi-obrazek.png"
+icon: "/v1561022870/uploads/icon-mole.jpg"
 language: ''
 lat: '48.218360'
 lon: 19.367649
