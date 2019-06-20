@@ -4,7 +4,7 @@ title: 'Kdekoli mimo svět: Ekonomie plýtvání, nepodmíněné slunění a odp
   zbraň'
 categories: article
 author: Noemi Purkrábková a Jiří Sirůček
-icon: "/v1560445161/uploads/simi-obrazek.png"
+icon: "/v1561022812/uploads/icon-clock.jpg"
 language: CZ
 lat: 48.208772
 lon: 19.34929
