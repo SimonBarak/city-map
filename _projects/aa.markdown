@@ -5,7 +5,7 @@ categories: jekyll update
 author: Martina Růžičková
 lon: 19.352755
 lat: 48.211324
-icon: "/v1561022812/uploads/icon-clock.jpg"
+icon: "/v1561022896/uploads/icon-family.jpg"
 language: SK
 image: "/v1560860301/uploads/bcaa-2.png"
 
