@@ -5,7 +5,7 @@ categories: article
 author: Lumír Nykl
 lon: 19.355617
 lat: 48.207051
-icon: "/v1560445161/uploads/simi-obrazek.png"
+icon: "/v1561022852/uploads/icon-plant.jpg"
 language: CZ
 image: "/v1560860271/uploads/bcaa-3.png"
 
