@@ -22,6 +22,7 @@ fields:
   name: language
   label: language
   hidden: true
+  default: sk
 - name: lat
   type: number
   description: ''
