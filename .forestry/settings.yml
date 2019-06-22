@@ -9,7 +9,7 @@ sections:
   label: Projects
   create: all
   match: "**/*"
-upload_dir: uploadss
+upload_dir: uploads
 public_path: https://res.cloudinary.com/dhxmg9p4i/image/upload
 front_matter_path: ''
 use_front_matter_path: true
