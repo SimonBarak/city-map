@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: uploads
-public_path: https://res.cloudinary.com/dhxmg9p4i/image/upload/c_limit,h_512,w_512
+public_path: https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
