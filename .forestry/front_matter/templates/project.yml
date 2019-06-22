@@ -14,16 +14,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: filename
-  type: text
-  config:
-    required: false
-  label: filename
-- name: url
-  type: text
-  config:
-    required: false
-  label: url
 - type: text
   name: categories
   label: categories
@@ -58,6 +48,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  hidden: false
+  hidden: true
+  default: post
 pages:
 - _projects/file-name.md
