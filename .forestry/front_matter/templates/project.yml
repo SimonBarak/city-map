@@ -14,15 +14,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: categories
-  label: categories
-  hidden: true
-- type: text
-  name: language
-  label: language
-  hidden: true
-  default: sk
 - name: lat
   type: number
   description: ''
@@ -46,6 +37,15 @@ fields:
 - type: text
   name: author
   label: author
+- type: text
+  name: categories
+  label: categories
+  hidden: true
+- type: text
+  name: language
+  label: language
+  hidden: true
+  default: sk
 - type: text
   name: layout
   label: layout
