@@ -57,5 +57,6 @@ fields:
   hidden: true
   default: post
 pages:
+- _projects/komunitne-centrum-velky-krtis.md
 - _projects/pohyb-zhromazdenie-a-jaho-rozklad.md
 - _projects/sidlisko-a-rozcestnik.md
