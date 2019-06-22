@@ -11,9 +11,14 @@ fields:
 - type: file
   name: icon
   label: icon
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 - type: text
   name: title
-  label: title
+  label: url
 - name: lat
   type: number
   description: ''
