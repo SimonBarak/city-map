@@ -57,4 +57,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _projects/pohyb-zhromazdenie-a-jaho-rozklad.md
 - _projects/sidlisko-a-rozcestnik.md
