@@ -16,7 +16,7 @@ V roku 1950 sa v tesnej blízkosti vtedajšej obce Veľký Krtíš začal
 
 Vo svojej knihe **_The Stack_**: On Software and Sovereignty (Stoh: O softvére a suverenite) uvádza sociológ a teoretik Benjamin Bratton príklad svätyne **_Göbekli Tepe_**. Jej pozostatky sú podľa tvrdení archeológov až 11 000 rokov staré a sú tak staršie
 
-![](https://res.cloudinary.com/dhxmg9p4i/image/upload/v1560859590/uploads/bcaa-1.png)
+![toto](https://res.cloudinary.com/dhxmg9p4i/image/upload/v1560859590/uploads/bcaa-1.png "neco")
 
 než egyptské pyramídy. Göbekli Tepe vznikla dávno pred tým, než sa naši predkovia začali venovať poľnohospodárstvu  
 a zakladať osídlenia podobné dnešným mestám a dedinám. Bratton chápe tento chrámový systém, túto veľkú štruktúru vytvorenú človekom ako **_rozcestník_**, bránu. Cez Göbekli Tepe prechádzali lovci a zberači pohybujúci sa vo vzdialenosti až 100 kilometrov od nej. Podľa Brattona mohli zvieratá namaľo- vané na jej stenách slúžiť ako akýsi **_zoznam_**, **_archív_**, **_informácia_** o tom, s akými živočíchmi a rastlinami sa mohli ľudia pri
