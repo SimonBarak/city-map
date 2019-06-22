@@ -10,6 +10,26 @@
     <div class="caption">
       <p class="m-b-2">{{- site.description | escape -}}</p>
     </div>
+    <div>
+      {%- if site.facebook_username -%}
+      <h2>
+        <a
+          href="https://www.facebook.com/{{
+            site.facebook_username | cgi_escape | escape
+          }}"
+          ><svg class="svg-icon">
+            <use
+              xlink:href="{{
+                '/assets/minima-social-icons.svg#facebook' | relative_url
+              }}"
+            ></use>
+          </svg>
+          <span class="username">{{ site.facebook_username | escape }}</span></a
+        >
+      </h2>
+      {%- endif -%}
+      <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
     <p class="excerpt">
       Články
     </p>
@@ -20,7 +40,7 @@
       data-lat="{{ project.lat }}"
     >
       <h2>
-        {{ project.title | escape }}
+        {{ name.title | escape }}
       </h2>
       <div class="excerpt left-right">
         <div>
