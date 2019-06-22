@@ -14,11 +14,11 @@ fields:
 - type: text
   name: title
   label: title
-- name: filename
+- name: url
   type: text
   config:
     required: false
-  label: FileName
+  label: url
 - type: text
   name: categories
   label: categories
