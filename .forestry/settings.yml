@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 upload_dir: uploads
 public_path: https://res.cloudinary.com/dhxmg9p4i/image/upload
-front_matter_path: ''
+front_matter_path: https://res.cloudinary.com/dhxmg9p4i/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
