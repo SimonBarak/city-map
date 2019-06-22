@@ -1,6 +1,6 @@
 ---
-image: ''
-icon: ''
+image: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1560859590/uploads/bcaa-1.png
+icon: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1561022812/uploads/icon-clock.jpg
 title: SÍDLISKO A ROZCESTNÍK
 url: sidlo
 categories: ''
