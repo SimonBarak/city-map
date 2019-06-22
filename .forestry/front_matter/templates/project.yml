@@ -55,4 +55,5 @@ fields:
   label: layout
   hidden: false
 pages:
+- _projects/sidlisko-a-rozcestnik.md
 - _projects/sídlisko-a-rozcestník.md
