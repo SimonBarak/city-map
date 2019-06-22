@@ -11,4 +11,4 @@ author: 'Martina Růžičková '
 layout: post
 
 ---
-V roku 1950 sa v tesnej blízkosti vtedajšej obce Veľký Krtíš začalo stavať sídlisko. O tomto súbore stavieb, o týchto bytovkách, nie je nutné premýšľať len ako o domovoch pre zamestnancov v tom období sa rozvíjajúcej bane.
+V roku 1950 sa v tesnej blízkosti vtedajšej obce Veľký Krtíš začalo stavať sídlisko. O tomto súbore stavieb, o týchto bytovkách, nie je nutné premýšľať len ako o domovoch pre zamestnancov v tom období sa rozvíjajúcej bane..
