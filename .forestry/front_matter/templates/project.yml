@@ -59,5 +59,3 @@ fields:
   name: layout
   label: layout
   hidden: false
-pages:
-- _projects/město.md
