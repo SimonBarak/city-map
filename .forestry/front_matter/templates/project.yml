@@ -54,5 +54,10 @@ fields:
   name: layout
   label: layout
   hidden: false
+- name: filename
+  type: text
+  config:
+    required: false
+  label: filename
 pages:
 - _projects/title.md
