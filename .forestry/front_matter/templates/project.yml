@@ -50,3 +50,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- _projects/sidlisko-a-rozcestnik.md
