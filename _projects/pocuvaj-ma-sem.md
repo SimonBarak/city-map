@@ -18,13 +18,13 @@ excerpt: Som Veľký Krtíš. Štatút mesta som získal v roku 1968. Ž
 ---
 Som Veľký Krtíš. Štatút mesta som získal v roku 1968. Život vo mne sa však začal omnoho skôr. Celkom na začiatku, v päťdesiatych rokoch, som bol iba sídlisko pre baníkov, ktorí sa prisťahovali z rôznych kútov krajiny kvôli práci v neďalekej bani na hnedé uhlie. Sídlisko pripojili k pôvodnej dedine. Ľudia aj zvykli hovoriť, že bývajú na _sídlisku_.
 
-„Tu bol výťah, schodisko, gumolit čistučký. Úplne že krása. Poschodie bolo zasklené celé. Tá chodba bola ako v nemocnici. Svetlá všade. Celý blok žiaril. Vyzeralo to síce ako nemocnica, ale dalo sa tu bývať.“
+_„Tu bol výťah, schodisko, gumolit čistučký. Úplne že krása. Poschodie bolo zasklené celé. Tá chodba bola ako v nemocnici. Svetlá všade. Celý blok žiaril. Vyzeralo to síce ako nemocnica, ale dalo sa tu bývať.“_
 
 V sedemdesiatych rokoch ma socialistický štát horlivo budoval v úsilí vytrhnúť ma z ekonomickej zaostalosti, ktorá sa na mňa nalepila v predchádzajúcom desaťročí. Liekom na zaostalosť mal byť hlavne priemysel. Vedelo sa však, že tunaj- šie hnedé uhlie je nekvalitné a že ťažba nespraví s regiónom zázraky. Ani poloha mimo dopravných ťahov neprispievala k môjmu rozkvetu.
 
 Toky investícií prúdili v socialistickom meste najmä do budovania okrajových častí miest a panelových sídlisk. Centrám sa toľko pozornosti a záujmu nedostávalo. To moje sa ani neunúvali postaviť. Zdá sa, že som bol od samého počiatku zamýšľaný a plánovaný ako _periféria_. Vo vtedajšom štáte však mala aj periféria mať svoje miesto a nemala byť synonymom zaostalosti.
 
-„Ten prvý dojem, že no ale veď dá sa. Aj keď maličké, ale dá sa.“
+_„Ten prvý dojem, že no ale veď dá sa. Aj keď maličké, ale dá sa.“_
 
 Priestor mesta je závislý od formy výroby a naopak. Sú to spojené nádoby. Hospodárstvo po roku 89 prešlo z kolektívneho na trhové, čo zmenilo aj moju tvár. Musel som sa prispôsobiť. Nový režim však nič prevratné nepriniesol, naopak, s nestabilným regiónom sme niesli na pleciach všetky ťarchy turbulentných deväťdesiatych rokov, z ktorých mnohé znášame dodnes.
 
@@ -85,7 +85,7 @@ Aj používaný sa dá kúpiť. V kúpeľni oddelíš tú časť, z
 Benjamin Bratton hovorí o _rozhraniach_ v meste: rozhrania  
 sú presvedčivé rétorické uzly medzi mestským tokom: čo je pre mňa otvorené, môže byť pre iného uzatvorené, a tak sú naše vektory rozdielne. Rozhrania sú výbavou, ktorou disponujete a cez ktorú zvažujete a vyjednávate svoje možnosti pohybu v meste.
 
-„Všimni si nové bloky, čo sú aj zateplené, že niektoré byty majú nad vlastným oknom normálne striešku, z tých vrchných poschodí aby im nepadal bordel na bielizeň, jedno s druhým a tak. A nie je to dobré? Je to dobré. Lebo ten hore na čo bude mať, keď to všetko dopadne len na to prvé poschodie. Ale my tu nemôžeme nič.“
+_„Všimni si nové bloky, čo sú aj zateplené, že niektoré byty majú nad vlastným oknom normálne striešku, z tých vrchných poschodí aby im nepadal bordel na bielizeň, jedno s druhým a tak. A nie je to dobré? Je to dobré. Lebo ten hore na čo bude mať, keď to všetko dopadne len na to prvé poschodie. Ale my tu nemôžeme nič.“_
 
 ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561226690/uploads/Screenshot%202019-06-22%20at%2020.04.25.png)![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561226726/uploads/Screenshot%202019-06-22%20at%2020.05.09.png)Mestská budova na Železničnej ulici bola v roku 1997 prerobená z kancelárskych priestorov na byty. Dom je v Krtíši známy ako Žlťák. Jeho obyvatelia sú označovaní za _neprispôsobivých_ a jeho samého by Michel Foucault, napriek centrálnej polohe, asi nazval tzv. _iným priestorom_. Prečo Žlťák chradne, dostáva nelichotivé atribúty, bývanie v ňom je nevľúdne a ponižujúce a prečo mesto tento stav udržiava?
 
@@ -113,14 +113,14 @@ Hmyz a hlodavce prosperujú v útrobách domu, hmyz je doslova votkaný do j
 Mesto (neaktivitou) udeľuje Žlťáku moc. Ten sa stáva technológiou, neľudským aktérom, ktorý má moc ovplyvňovať túžby a aktivity ľudí. A naopak, ľudia každodenne pretvárajú Žlťák. Bytový dom je organizmom, ktorý moc (mesta) nielenže znázorňuje, ale aj sám tvorí, ako by povedal Bruno Latour.
 
 Je míľnikom, ku ktorému sa možno vzťahovať; jednak pre ľudí, ktorí žijú v ňom, pre susedov z ulice, pre vlastníkov bytov  
- v domoch oproti cez cestu i pre obyvateľov záhradkárskych kolónií za mestom. Viacerí z nich v Žlťáku bývali alebo ho vnímajú (len) ako ďalší spôsob prežitia: zatiaľ čo oni nemajú vodu ani kanalizáciu, v Žlťáku zas majú šváby a sú pod mestskou správou. Také bývanie teda buď dobrovoľne odmie- tajú, alebo naopak, nedosiahnu na možnosť uchádzať sa v ňom o byt.
+v domoch oproti cez cestu i pre obyvateľov záhradkárskych kolónií za mestom. Viacerí z nich v Žlťáku bývali alebo ho vnímajú (len) ako ďalší spôsob prežitia: zatiaľ čo oni nemajú vodu ani kanalizáciu, v Žlťáku zas majú šváby a sú pod mestskou správou. Také bývanie teda buď dobrovoľne odmie- tajú, alebo naopak, nedosiahnu na možnosť uchádzať sa v ňom o byt.
 
 Motív _inakosti_ plávajúci naprieč mestom a berúci na seba významové odtiene odzrkadľujúce rôzne reality aktérov, nie je iba mechanicky posúvaný, ale vždy nanovo spolutvorený, je to nepretržité stávanie sa Žlťákom a stávanie sa _iným_ v ňom.
 
 _„Ja som prišla do Krtíša fakt s holým zadkom. Nemáte na nič nárok, nie ste čierna, aj také som počula. Od žiadneho úradu som nedostala žiadnu pomoc. Platím 180 eur a som dôchodkyňa, ale pracujem. Keby som nepracovala, tak by to bolo ťažko.”_
 
 História geografií oddeľujúcich skupiny ľudí na základe predstáv o nás a o tých druhých, je dlhá. Autorita tých, ktorí sa považujú za čistých, ako i prispôsobivosť menšiny predstavujúcej hrozbu (znečistenia), sú vyjadrené v mapách umiestňujúcich druhých preč, ďalej od dominantnej väčšiny. Priestorové hierarchizácie v raných kapitalistických mestách 19. storočia boli založené na triednych rozdieloch. Akonáhle si buržoázia osvojila dobové hygienické výdobytky, mohla stvoriť obraz _špinavej_ robotníckej triedy ako protipól k sebe samej, píše David Sibley. Dnes si je stredná trieda naprieč západným svetom dokonale vedomá svojej _očistenej_ identity a je to predovšetkým ona, ktorá z potreby pomenovať samú seba a z frustrácie nad rastúcou ekonomickou neistotou  
- a politickou neschopnosťou, hľadá _druhého_ všade možne: v imigrantoch, sexuálnych či etnizovaných menšinách, ľuďoch bez domova.
+a politickou neschopnosťou, hľadá _druhého_ všade možne: v imigrantoch, sexuálnych či etnizovaných menšinách, ľuďoch bez domova.
 
 Podľa Saskie Sassen je to však práve stredná trieda, na ktorej pleciach spočinula zodpovednosť za mestskú identitu. Ona má byť novým mestským subjektom. Henri Lefebvre naopak hovorí o tzv. _šedých obyvateľoch_, anti-občanoch ako novej norme mesta. Majú perifériu v sebe, aj keď obývajú centrum. Zatiaľčo prví cítia zášť z nenaplnených snov o blahobyte, druhých nostalgia dávno nezaujíma a točia sa v kruhu medzi politickou bezmocou a historickým bremenom.
 
