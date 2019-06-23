@@ -9,6 +9,11 @@ lat: 48.205257
 lon: '19.350670'
 author: Martina Růžičková
 categories: ''
+excerpt: 'Na území mesta sa tvoria obálky. Obálku si môžeme predstaviť ako
+  hmotnú, materiálnu hranicu, ktorá _rozdeľuje_územie mesta na menšie časti.
+  Takéto delenie má mať podľa architekta Alejandra Zaera-Polo politický účinok.
+  Ten spočíva v spôsobe, akým obálky usporadúvajú a združujú užívateľov
+  mesta. '
 
 ---
 Na území mesta sa tvoria **_obálky_**. Obálku si môžeme predstaviť ako hmotnú, materiálnu hranicu, ktorá **_rozdeľuje  
