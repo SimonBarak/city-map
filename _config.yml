@@ -23,6 +23,7 @@ twitter_username: jekyllrb
 github_username: jekyll
 facebook_username: ruvk2028
 show_excerpts: true
+excerpt_separator: <!--more-->
 collections:
   projects:
     output: true
