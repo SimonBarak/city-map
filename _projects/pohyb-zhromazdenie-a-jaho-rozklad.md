@@ -9,6 +9,11 @@ lat: 48.208317
 lon: 19.350993
 author: Martina Růžičková
 categories: ''
+excerpt: Po páde komunizmu sa, žiaľ, naplno prejavili dôsledky územ- ného plánovania,
+  ktoré nebralo do úvahy prírodné a kultúrne podmienky oblasti, v ktorej bolo
+  mesto Veľký Krtíš vybudované. Priemyselné podniky v okrese Veľký Krtíš
+  a Baňa Dolina prehrávali v 90. rokoch 20. storočia konkurenčný boj na čoraz
+  otvorenejšom trhu. Mnohí obyvatelia mesta Veľký Krtíš prišli
 
 ---
 Po páde komunizmu sa, žiaľ, naplno prejavili **_dôsledky_** územ- ného plánovania, ktoré nebralo do úvahy prírodné a kultúrne podmienky oblasti, v ktorej bolo mesto Veľký Krtíš vybudované. Priemyselné podniky v okrese Veľký Krtíš a Baňa Dolina prehrávali v 90. rokoch 20. storočia konkurenčný boj na čoraz otvorenejšom trhu. Mnohí obyvatelia mesta Veľký Krtíš prišli
