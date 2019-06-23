@@ -10,7 +10,11 @@ lat: '48.210210'
 lon: 19.339614
 author: Noemi Purkrabková a Jiří Sirůček
 categories: ''
-excerpt: ''
+excerpt: 'Nápad na tento text sa zrodil jedného horúceho letného dňa na bio-kúpalisku
+  Krtko v mestečku Veľký Krtíš na južnom Slovensku. Desiatky ľudí sa vyhrievali
+  na slnku aleboležali na tráve v tieni slnečníkov. Akoby sa chladivá voda premenila
+  v lenivo dýchajúci neuralgický bod celého okolia a popoludnie tú trávilo celé
+  mesto. '
 
 ---
 _V kaluži sa zrkadlí celý svet.  
