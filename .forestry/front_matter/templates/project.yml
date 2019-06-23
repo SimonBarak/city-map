@@ -57,6 +57,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _projects/statut-mesta.md
 - _projects/kdekolvek-mimo-svet.md
 - _projects/pocuvaj-ma-sem.md
 - _projects/obalky-a-pasky.md
