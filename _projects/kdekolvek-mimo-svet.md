@@ -10,6 +10,7 @@ lat: '48.210210'
 lon: 19.339614
 author: Noemi Purkrabková a Jiří Sirůček
 categories: ''
+excerpt: ''
 
 ---
 _V kaluži sa zrkadlí celý svet.  
