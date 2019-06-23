@@ -101,3 +101,21 @@
     fill: black;
   }
 }
+
+.img-cover {
+  display: none;
+  @media (min-width: 960px) {
+    display: block;
+  }
+}
+
+.side-box header {
+  position: relative;
+
+  .icon {
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    bottom: 20px;
+  }
+}

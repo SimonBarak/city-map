@@ -1,17 +1,17 @@
 <div class="side-box side-box-home open">
   <section class="m-15">
-    <div class="icon icon-lg m-b-1">
-      <img src="{{ "/assets/icons/icon-hellou.png" | relative_url }}"
-      alt="author" />
+    <div class="icon icon-lg img-round m-b-1">
+      <img
+        src="{{ site.img_url }}c_limit,h_512,w_512/{{ page.icon }}"
+        alt="úvodní obrázek"
+      />
     </div>
     <!-- <h1 class="m-b-1">
       Zapoměli jsme odbočit.
     </h1> -->
     <div class="caption">
       <h2 class="m-b-2">
-        Čo znamená tráviť svoj voľný čas v meste? Jaká je minulosť, súčasnosť a
-        budúcnosť mesta Veľký Krtíš? Tieto stránky obsahujú články v ktorých sa
-        skupina teoretikov a dizajnérov snaží na tieto otázky nájsť odpovede.
+        {{ content }}
       </h2>
     </div>
     <p class="excerpt">
@@ -23,9 +23,9 @@
       data-lon="{{ project.lon }}"
       data-lat="{{ project.lat }}"
     >
-      <h2>
+      <h3>
         {{ project.name | escape }}
-      </h2>
+      </h3>
       <div class="excerpt left-right">
         <div>
           {{ project.author }}

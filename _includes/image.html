@@ -1,9 +1,10 @@
 <img
   srcset="
-{{ site.img_url }}c_scale,w_166/{{ project.image }} 500w,
-{{ site.img_url }}c_scale,w_236/{{ project.image }} 710w,
-{{ site.img_url }}c_scale,w_333/{{ project.image }} 1000w,
-{{ site.img_url }}c_scale,w_480/{{ project.image }} 1420w"
-  src="{{ site.img_url }}c_scale,w_166/{{ project.image }}"
+  {{ site.img_url }}c_fill,w_320,h_224{{ project.image }} 320w,
+{{ site.img_url }}c_fill,w_500,h_350{{ project.image }} 500w,
+{{ site.img_url }}c_fill,w_710,h_497{{ project.image }} 710w,
+{{ site.img_url }}c_fill,w_333,h_233{{ project.image }} 960w,
+{{ site.img_url }}c_fill,w_480,h_336{{ project.image }} 1420w"
+  src="{{ site.img_url }}c_fill,w_500,h_350{{ project.image }}"
   alt="{{ project.title }}"
 />
