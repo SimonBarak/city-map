@@ -9,6 +9,11 @@ lat: '48.211990'
 lon: 19.345587
 author: Kristína Jamrichová
 categories: ''
+excerpt: Som Veľký Krtíš. Štatút mesta som získal v roku 1968. Život vo mne
+  sa však začal omnoho skôr. Celkom na začiatku, v päťdesiatych rokoch, som
+  bol iba sídlisko pre baníkov, ktorí sa prisťahovali z rôznych kútov krajiny
+  kvôli práci v neďalekej bani na hnedé uhlie. Sídlisko pripojili k pôvodnej
+  dedine. Ľudia aj zvykli hovoriť, že bývajú na sídlisku.
 
 ---
 Som Veľký Krtíš. Štatút mesta som získal v roku 1968. Život vo mne sa však začal omnoho skôr. Celkom na začiatku, v päťdesiatych rokoch, som bol iba sídlisko pre baníkov, ktorí sa prisťahovali z rôznych kútov krajiny kvôli práci v neďalekej bani na hnedé uhlie. Sídlisko pripojili k pôvodnej dedine. Ľudia aj zvykli hovoriť, že bývajú na _sídlisku_.
