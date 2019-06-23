@@ -16,14 +16,13 @@
 title: RVUK
 email: rvuk2028@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Čo znamená tráviť svoj voľný čas v meste Veľký Krtíš?”.
-baseurl: "/city-map" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Čo znamená tráviť svoj voľný čas v meste Veľký Krtíš?.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ruvk.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 facebook_username: ruvk2028
 show_excerpts: true
-excerpt_separator: <!--more-->
 collections:
   projects:
     output: true

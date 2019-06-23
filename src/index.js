@@ -23,8 +23,6 @@ if (mapEl) {
     el.classList.contains("map-location")
   );
 
-  console.log(siteBoxesLocationsArray);
-
   // get map-entries
   const mapEntryArray = Array.from(
     document.getElementsByClassName("map-entry")
@@ -141,7 +139,6 @@ if (mapEl) {
       }
     };
 
-    console.log(crossBtn);
     addMapEvent(sideBoxCross);
   });
 }

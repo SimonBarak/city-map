@@ -4,31 +4,15 @@
       <img src="{{ "/assets/icons/icon-hellou.png" | relative_url }}"
       alt="author" />
     </div>
-    <h1 class="m-b-1">
+    <!-- <h1 class="m-b-1">
       Zapoměli jsme odbočit.
-    </h1>
+    </h1> -->
     <div class="caption">
-      <p class="m-b-2">{{- site.description | escape -}}</p>
-    </div>
-    <div>
-      {%- if site.facebook_username -%}
-      <h2>
-        <a
-          href="https://www.facebook.com/{{
-            site.facebook_username | cgi_escape | escape
-          }}"
-          ><svg class="svg-icon">
-            <use
-              xlink:href="{{
-                '/assets/minima-social-icons.svg#facebook' | relative_url
-              }}"
-            ></use>
-          </svg>
-          <span class="username">{{ site.facebook_username | escape }}</span></a
-        >
+      <h2 class="m-b-2">
+        Čo znamená tráviť svoj voľný čas v meste? Jaká je minulosť, súčasnosť a
+        budúcnosť mesta Veľký Krtíš? Tieto stránky obsahujú články v ktorých sa
+        skupina teoretikov a dizajnérov snaží na tieto otázky nájsť odpovede.
       </h2>
-      {%- endif -%}
-      <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
     </div>
     <p class="excerpt">
       Články
@@ -52,5 +36,27 @@
       </div>
     </a>
     {%- endfor -%}
+    <div>
+      {%- if site.facebook_username -%}
+      <p>
+        <a
+          href="https://www.facebook.com/{{
+            site.facebook_username | cgi_escape | escape
+          }}"
+          ><svg class="svg-icon">
+            <use
+              xlink:href="{{
+                '/assets/minima-social-icons.svg#facebook' | relative_url
+              }}"
+            ></use>
+          </svg>
+          <span class="username">{{ site.facebook_username | escape }}</span></a
+        >
+      </p>
+      {%- endif -%}
+      <p>
+        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+    </div>
   </section>
 </div>
