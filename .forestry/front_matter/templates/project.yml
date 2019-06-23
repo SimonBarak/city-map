@@ -42,6 +42,11 @@ fields:
 - type: text
   name: author
   label: author
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: excerpt
 - type: text
   name: categories
   label: categories
