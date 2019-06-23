@@ -5,8 +5,8 @@ image: "/v1561226250/uploads/Screenshot%202019-06-22%20at%2019.57.14.png"
 icon: "/v1561226215/uploads/Screenshot%202019-06-22%20at%2019.56.38.png"
 name: Počúvaj ma sem
 title: pocuvaj-ma-sem
-lat: '48.207780'
-lon: '19.348110'
+lat: '48.211990'
+lon: 19.345587
 author: Kristína Jamrichová
 categories: ''
 
