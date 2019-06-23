@@ -21,8 +21,7 @@ _V kaluži sa zrkadlí celý svet._
 
 Gaston Bachelard, Voda a sny (1942)
 
-Nápad na tento text sa zrodil jedného horúceho letného dňa na bio-kúpalisku Krtko v mestečku Veľký Krtíš na južnom Slovensku. Desiatky ľudí sa vyhrievali na slnku alebo  
-ležali na tráve v tieni slnečníkov. Akoby sa chladivá voda premenila v lenivo dýchajúci neuralgický bod celého okolia a popoludnie tú trávilo celé mesto. Kúpalisko sa aj pre nás stalo centrom pomyselnej dostredivej dráhy – nakoniec si nás vždy pritiahlo späť...
+Nápad na tento text sa zrodil jedného horúceho letného dňa na bio-kúpalisku Krtko v mestečku Veľký Krtíš na južnom Slovensku. Desiatky ľudí sa vyhrievali na slnku alebo ležali na tráve v tieni slnečníkov. Akoby sa chladivá voda premenila v lenivo dýchajúci neuralgický bod celého okolia a popoludnie tú trávilo celé mesto. Kúpalisko sa aj pre nás stalo centrom pomyselnej dostredivej dráhy – nakoniec si nás vždy pritiahlo späť...
 
 Ako návštevníci z oveľa väčšieho mesta, ktorí ešte iba pred niekoľkými hodinami vystúpili po poldennej ceste na krtíšskej autobusovej zastávke, mali sme potrebu akosi reflektovať pozíciu, z ktorej o ňom môžeme hovoriť, bez toho aby sme poučovali alebo romantizovali.
 
