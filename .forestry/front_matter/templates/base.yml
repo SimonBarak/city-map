@@ -1,0 +1,10 @@
+---
+label: Base
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: icon
+  label: icon
