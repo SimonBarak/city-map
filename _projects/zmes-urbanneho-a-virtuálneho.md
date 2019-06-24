@@ -8,7 +8,9 @@ title: zmes-urbanneho-a-virtuálneho
 lat: 48.219912
 lon: 19.354866
 author: Martina Růžičková
-excerpt: ''
+excerpt: S verejnými (park, námestie) a polo-verejnými hmotnými priestormi (športovisko,
+  ihrisko, kúpalisko), sa súčasne vyvíja i virtuálny verejný a polo-verejný
+  priestor (sociálne siete, mobilné aplikácie).
 categories: ''
 
 ---
