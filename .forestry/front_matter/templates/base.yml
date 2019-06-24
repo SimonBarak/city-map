@@ -8,3 +8,4 @@ fields:
 - type: file
   name: icon
   label: icon
+  description: homepage icon
