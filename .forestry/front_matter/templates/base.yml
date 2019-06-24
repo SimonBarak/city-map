@@ -9,3 +9,5 @@ fields:
   name: icon
   label: icon
   description: homepage icon
+pages:
+- index.md
