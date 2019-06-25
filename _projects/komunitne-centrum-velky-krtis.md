@@ -14,8 +14,7 @@ excerpt: ''
 ---
 ### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464403/uploads/2-ondrej8.jpg)I. Projekt navrhuje prestavbu bývalej kotolne na rohu ulíc Novohradská a Železničná na komunitné centrum tak, aby si ho miestna aj nadmiestna komunita mohla vybudovať a aby jej bol prospešný.
 
-### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464484/uploads/2-ondrej9.jpg)II. Centrum je možné budovať po moduloch, je totiž rozsiahle  
- a malo by obsahovať množstvo špecializovaných priestorov:
+### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464484/uploads/2-ondrej9.jpg)II. Centrum je možné budovať po moduloch, je totiž rozsiahle a malo by obsahovať množstvo špecializovaných priestorov:
 
 A. Modul pre starostlivosť o deti. Obsahuje priestor pre hru, šatňu, kuchyňu, zázemie pre vychová- vateľov, toaletu pre deti a schody do prvého poschodia.
 
