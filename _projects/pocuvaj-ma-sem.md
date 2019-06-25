@@ -39,7 +39,7 @@ _„Dalo sa to prepojiť. Je tam taká stúpačka, kde ti oni
 dali plombu. Keď si tú plombu odlomila, pustila ďalej, tak ti nabehla teplá voda. Nás vykuruje kotolňa zhora, takže automaticky to, čo cirkuluje do radiátorov teplé, tak aj do vodomerov ide.“_
 
 Podľa architektky Keller Easterling sú typickými znakmi priestorov infraštruktúry spoločné štandardy, kopírovateľné  
-vzorce, cez hranice štátov prenosné architektúry a ideológie. Predstavme si ich ako umelo vysadené lesy, ktoré nemajú napodobniť skutočný les, ani rešpektovať povahu krajiny. Význam takéhoto lesa môže byť rôzny, ale skôr než pomoc prírode, je to väčšinou vidina zárobku z ťažby dreva. Podobne ako v umelých lesoch veľa druhov živočíchov neprežije, ani súčasné mestá nie sú pre všetkých dôstojným miestom na život. 
+vzorce, cez hranice štátov prenosné architektúry a ideológie. Predstavme si ich ako umelo vysadené lesy, ktoré nemajú napodobniť skutočný les, ani rešpektovať povahu krajiny. Význam takéhoto lesa môže byť rôzny, ale skôr než pomoc prírode, je to väčšinou vidina zárobku z ťažby dreva. Podobne ako v umelých lesoch veľa druhov živočíchov neprežije, ani súčasné mestá nie sú pre všetkých dôstojným miestom na život.
 
 Zástupcovia Veľkého Krtíša sa počas posledných dvoch desaťročí zbavili takmer všetkých mestských zastavateľných pozemkov. Tie sa ocitli v rukách súkromných vlastníkov, čím som prišiel o značnú časť svojich možností hýbať nitkami územného, urbánneho, a tým i spoločenského vývoja. Je mojím najväčším problémom nezamestnanosť, alebo skôr mizéria rozmanitých situácií, do akých ľudí tlačí trh práce a bývania? K tým prispievajú niektoré rysy, o ktoré sa delím s typom infraštruktúrneho priestoru, ktorý Easterling pomenovala _zóna_. Napríklad väčšinové zahraničné vlastníctvo lokálnej výroby. Na všetkom chcú ušetriť, najviac na svojich zamestnancoch, kvôli nim sem nakoniec viacerí prišli, pracujú totiž za podstatne menšie mzdy než ľudia u nich doma. Pracovné podmienky a praktiky zamestnávania a prepúšťania radšej nespomínam. Jeden z najväčších zamestnávateľov okresu, taliansky výrobca posilňovacích strojov _Technogym_, je medzi ľuďmi napríklad známy ako _Peklogym_.
 
@@ -78,7 +78,7 @@ sú presvedčivé rétorické uzly medzi mestským tokom: čo je pre mňa otvore
 
 _„Všimni si nové bloky, čo sú aj zateplené, že niektoré byty majú nad vlastným oknom normálne striešku, z tých vrchných poschodí aby im nepadal bordel na bielizeň, jedno s druhým a tak. A nie je to dobré? Je to dobré. Lebo ten hore na čo bude mať, keď to všetko dopadne len na to prvé poschodie. Ale my tu nemôžeme nič.“_
 
-![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561226690/uploads/Screenshot%202019-06-22%20at%2020.04.25.png)![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561226726/uploads/Screenshot%202019-06-22%20at%2020.05.09.png)Mestská budova na Železničnej ulici bola v roku 1997 prerobená z kancelárskych priestorov na byty. Dom je v Krtíši známy ako Žlťák. Jeho obyvatelia sú označovaní za _neprispôsobivých_ a jeho samého by Michel Foucault, napriek centrálnej polohe, asi nazval tzv. _iným priestorom_. Prečo Žlťák chradne, dostáva nelichotivé atribúty, bývanie v ňom je nevľúdne a ponižujúce a prečo mesto tento stav udržiava?
+![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561226690/uploads/Screenshot%202019-06-22%20at%2020.04.25.png)![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561226726/uploads/Screenshot%202019-06-22%20at%2020.05.09.png)Mestská budova na Železničnej ulici bola v roku 1997 prerobená z kancelárskych priestorov na byty. Dom je v Krtíši známy ako _Žlťák_. Jeho obyvatelia sú označovaní za _neprispôsobivých_ a samotný dom by Michel Foucault, napriek jeho centrálnej polohe, asi nazval tzv. _iným priestorom_. Prečo Žlťák chradne, dostáva nelichotivé atribúty, bývanie v ňom je nevľúdne a ponižujúce a prečo mesto tento stav udržiava?
 
 Zo Žlťáka trvá cesta peši do centra menej ako päť minút. Nie je fyzicky odsunutý niekam za mesto, naopak, je _mikro-vnútorným mestom_. Ako mestský nájomný dom prekvapivo nemá status sociálneho bývania. Ani výška nákladov na bývanie nenaznačuje, že by malo ísť o takýto typ bývania, i keď si to mnohí myslia. Náklady sa v jednotlivých bytoch líšia v závislosti od počtu členov domácnosti a rozlohy bytu a nie sú malé.
 
@@ -104,6 +104,8 @@ Hmyz a hlodavce prosperujú v útrobách domu, hmyz je doslova votkaný do jeho 
 Mesto (neaktivitou) udeľuje Žlťáku moc. Ten sa stáva technológiou, neľudským aktérom, ktorý má moc ovplyvňovať túžby a aktivity ľudí. A naopak, ľudia každodenne pretvárajú Žlťák. Bytový dom je organizmom, ktorý moc (mesta) nielenže znázorňuje, ale aj sám tvorí, ako by povedal Bruno Latour.
 
 Motív _inakosti_ plávajúci naprieč mestom a berúci na seba významové odtiene odzrkadľujúce rôzne reality aktérov, nie je iba mechanicky posúvaný, ale samotným domom vždy nanovo spolutvorený, je to nepretržité stávanie sa Žlťákom a stávanie sa _iným_ v ňom.
+
+![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561497123/uploads/SKMBT_C28019062110391.jpg)
 
 _„Ja som prišla do Krtíša fakt s holým zadkom. Nemáte na nič nárok, nie ste čierna, aj také som počula. Od žiadneho úradu som nedostala žiadnu pomoc. Platím 180 eur a som dôchodkyňa, ale pracujem. Keby som nepracovala, tak by to bolo ťažko.”_
 
