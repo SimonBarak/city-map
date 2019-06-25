@@ -62,6 +62,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _projects/projek-urýchlenia-rozpadu.md
 - _projects/zmes-urbanneho-a-virtuálneho.md
 - _projects/kdekolvek-mimo-svet.md
 - _projects/sidlisko-a-rozcestnik.md
