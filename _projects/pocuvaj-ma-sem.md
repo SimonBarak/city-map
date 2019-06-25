@@ -88,7 +88,7 @@ Zatiaľ čo pre nájomníkov znamená udržiavanie stavu, v ktorom sa dom ocitol
 
 _„Veď väčšina ľudí tu má osobného príjemcu. Inak by tu veľa ľudí už nebolo. Tú škodu na meste hradia tým osobným príjemcom a na splátky. To nemôžeš porušiť a musí to ísť mesačne tak, ako má. Prídeš na mesto a byt máš uhradený, že o tom ani nevieš, už ti len vydá bloček.”_
 
-Výnimočná _aura_ Žlťáka vždy nanovo potvrdzuje nálepku _inakosti_ udelenú nájomníkom i samotnému domu. Rádius dosahu tejto aury sa neobmedzuje iba na Žlťák, ale siaha až k susedným (upraveným) domom, kde vraj byty kvôli Žlťáku strácajú na hodnote. Inakosť nájomníkov, samotného domu i okolia teda nie je tvorená len etnorasovým, ale i triednym onálepkovaním. Každé telo, ktoré sa ocitne v Žlťáku, bez ohľadu na to, či je ľudské, či neľudské, rómske alebo nerómske, je automaticky označené. O živenie nálepiek sa následne zaslúžia _príbehy_ obiehajúce okolo ľudí, zvierat i vecí.
+Výnimočná _aura_ Žlťáka vždy nanovo potvrdzuje nálepku _inakosti_ udelenú nájomníkom i samotnému domu. Rádius  tejto aury sa neobmedzuje iba na Žlťák, ale siaha až k susedným (upraveným) domom, kde vraj byty kvôli Žlťáku strácajú na hodnote. Inakosť nájomníkov, samotného domu i okolia teda nie je tvorená len etnorasovým, ale i triednym onálepkovaním. Každé telo, ktoré sa ocitne v Žlťáku, bez ohľadu na to, či je ľudské, či neľudské, rómske alebo nerómske, je automaticky označené. O živenie nálepiek sa následne zaslúžia _príbehy_ obiehajúce okolo ľudí, zvierat i vecí.
 
 _„Veľakrát sa mi stalo, keď som povedal, že kde bývaš,  
 že zo Žlťáku, jáj, to je humus. Ináč na mňa pozerajú, aj keď som nie taký, ako si myslia. Aj v robote sa mi to stalo. Ale zavolal som ho ku mne a ukázal som, že normálne žijem aj ja, len som tak, ako som.”_
