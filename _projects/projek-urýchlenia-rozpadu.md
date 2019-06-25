@@ -4,7 +4,7 @@ layout: post
 image: "/v1561463748/uploads/2-ondrej7.jpg"
 icon: "/v1561022852/uploads/icon-plant.jpg"
 name: Projek urýchlenia rozpadu
-title: projek-urýchlenia-rozpadu
+title: projek-urychlenia-rozpadu
 lat: 48.207042
 lon: 19.355907
 author: Ondřej Vaněk
