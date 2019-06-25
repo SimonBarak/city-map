@@ -2,7 +2,7 @@
 // component: full-menu
 //________________________
 .site-header {
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 10, 0.8);
@@ -19,7 +19,8 @@
   }
 }
 
-.page-content {
+.page-content,
+.home {
   transition: opacity 0.3s ease-in;
   .open & {
     filter: blur(7px);

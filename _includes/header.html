@@ -33,24 +33,24 @@
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
             <li class="p-name">
-              {%- if site.author -%}
-                {{ site.author | escape }}
-              {%- else -%}
-                {{ site.title | escape }}
-              {%- endif -%}
+              Napíšte nám
               </li>
-              {%- if site.email -%}
+         
               <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-              {%- endif -%}
+          <li><li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ site.facebook_username| escape }}</span></a></li>
           </ul>
         </div>
   
         <div class="footer-col footer-col-2">
-          {%- include social.html -%}
-        </div>
-  
-        <div class="footer-col footer-col-3">
-          <p>{{- site.description | escape -}}</p>
+            
+            <ul class="contact-list">
+              <li>Vytvorilo štúdio</li>
+              <li><a href="http://loners.company/">Loners.company</a></li>
+                   <li>
+                          {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
+                        </li>
+                      </ul>
+
         </div>
       </div>
   
