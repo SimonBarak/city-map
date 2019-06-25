@@ -1,7 +1,7 @@
 ---
 language: sk
 layout: post
-image: "/v1561225578/uploads/Screenshot%202019-06-22%20at%2019.46.05.png"
+image: "/v1561464403/uploads/2-ondrej8.jpg"
 icon: "/v1561022852/uploads/icon-plant.jpg"
 name: Komunitné centrum Veľký Krtíš
 title: komunitne-centrum-velky-krtis
@@ -9,6 +9,16 @@ lat: 48.207028
 lon: 19.355659
 author: Ondřej Vaněk
 categories: ''
+excerpt: ''
 
 ---
-Doplnit
+### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464403/uploads/2-ondrej8.jpg)I. Projekt navrhuje prestavbu bývalej kotolne na rohu ulíc Novohradská a Železničná na komunitné centrum tak, aby si ho miestna aj nadmiestna komunita mohla vybudovať a aby jej bol prospešný.
+
+### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464484/uploads/2-ondrej9.jpg)II. Centrum je možné budovať po moduloch, je totiž rozsiahle  
+ a malo by obsahovať množstvo špecializovaných priestorov:
+
+A. Modul pre starostlivosť o deti. Obsahuje priestor pre hru, šatňu, kuchyňu, zázemie pre vychová- vateľov, toaletu pre deti a schody do prvého poschodia.
+
+B. Priestor na rozšírenie kuchyne, sklad, hygienické zázemie pre kuchyňu, novú kanceláriu komunit- ného centra menšín.
+
+C. Spoločný priestor komunitného centra, kanceláriu, sklad nábytku a schodisko do prvého poschodia.
