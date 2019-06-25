@@ -62,6 +62,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _projects/projek-urychlenia-rozpadu.md
 - _projects/komunitne-centrum-velky-krtis.md
 - _projects/zmes-urbanneho-a-virtuálneho.md
 - _projects/kdekolvek-mimo-svet.md
