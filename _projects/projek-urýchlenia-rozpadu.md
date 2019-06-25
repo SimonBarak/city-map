@@ -11,7 +11,6 @@ author: Ondřej Vaněk
 excerpt: Panelový dom Žlťák je bývalým internátom. V malých bytoch sa nájomcovia
   tiesnia. Je ich viac ako by malo.
 categories: ''
-published: false
 
 ---
 #### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561463311/uploads/2-ondrej.jpg)
