@@ -6,7 +6,7 @@ icon: "/v1561022852/uploads/icon-plant.jpg"
 name: Komunitné centrum Veľký Krtíš
 title: komunitne-centrum-velky-krtis
 lat: 48.207028
-lon: 19.355659
+lon: 19.35568
 author: Ondřej Vaněk
 categories: ''
 excerpt: ''
