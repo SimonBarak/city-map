@@ -114,12 +114,10 @@ a politickou neschopnosťou, hľadá _druhého_ všade možne: v imigrantoch, se
 
 Podľa Saskie Sassen je to však práve stredná trieda, na ktorej pleciach spočinula zodpovednosť za mestskú identitu. Ona má byť novým mestským subjektom. Henri Lefebvre naopak hovorí o tzv. _šedých obyvateľoch_, anti-občanoch ako novej norme mesta. Majú perifériu v sebe, aj keď obývajú centrum. Zatiaľ čo prví cítia zášť z nenaplnených snov o blahobyte, druhých nostalgia dávno nezaujíma a točia sa v kruhu medzi politickou bezmocou a historickým bremenom.
 
-Bolo by treba niečo ako urbánny šamanizmus, ktorý by umožnil účinnejší dialóg medzi týmito pomyslenými skupinami. Šaman, schopný vteliť sa do inej bytosti a zaujať jej uhol pohľadu, následne môže moderovať dialóg, urovnávať konflikty. Urbánni šamani by v infraštruktúrnom priestore dokázali vyhľadávať jeho nahodilosti, vnútorné rozpory a dočasné otrasy. Na lokálnych úrovniach a čerili by hladiny zaužívaných praxí v mestskom priestore.
+Bolo by treba niečo ako urbánny šamanizmus, ktorý by umožnil účinnejší dialóg medzi týmito pomyslenými skupinami. Šaman, schopný vteliť sa do inej bytosti a zaujať jej uhol pohľadu, následne môže moderovať dialóg, urovnávať konflikty. Urbánni šamani by v infraštruktúrnom priestore dokázali vyhľadávať jeho nahodilosti, vnútorné rozpory a dočasné otrasy. Z lokálnych pozícií by čerili obecné hladiny zaužívaných praxí v mestskom priestore.
 
-Neistoty strednej triedy sa dnes zreteľne prelínajú s neistotami tých najslabších. Sprivatizovaný verejný priestor či nedôstojné pracovné podmienky už nie sú exkluzívne útrapy strednej triedy. Nedostupnosť bývania sa zase rozšírila z najchudobnej- ších na strednú triedu.
+Neistoty strednej triedy sa dnes zreteľne prelínajú s neistotami tých najslabších. Sprivatizovaný verejný priestor či nedôstojné pracovné podmienky už nie sú exkluzívne útrapy strednej triedy. Nedostupnosť bývania sa zase rozšírila z najchudobnejších na strednú triedu. Spolu by sa im efektívnejšie vyhľadávali slabiny a nedostatky priestoru a ľahšie by sa vzopreli niektorým prejavom moci infraštruktúrneho priestoru.
 
-Spolu by sa im efektívnejšie vyhľadávali slabiny a nedostatky priestoru a ľahšie by sa vzopreli niektorým prejavom moci infraštruktúrneho priestoru.
-
-Mestá potrebujú solidaritu v rozmanitosti realít, nie kultúr. Moja realita je iná než tvoja, no slabšie a silnejšie reality spolu dokážu existovať, len musia spolu viesť dialóg. Mapa sveta (a mesta) už nie je ako obrus, s civilizáciou v strede a groteskným dekorom na okraji, ale ako nekonečná sieť.
+Mestá potrebujú solidaritu v rozmanitosti realít, nie kultúr. Slabšie a silnejšie reality vedľa seba dokážu zmyslupne existovať, len musia viesť dialóg. Mapa sveta (a mesta) už nie je ako obrus, s civilizáciou v strede a groteskným dekorom na okraji, ale ako nekonečná sieť.
 
 _„Prečo máš byť človek len preto, že sa vieš rozprávať, vieš byť čistý, vieš byť normálny? Však aj druhý, čo po tebe prejde, aj ten je človek. To isté nosí vo vnútri, čo aj ja. No lenže vieš, každý má svoje vlastné obrazy. Má pred sebou namaľovaný taký obraz, ktorý on chce vidieť a ten nepremaľuješ.”_
