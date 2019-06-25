@@ -30,10 +30,16 @@ C. Spoločný priestor komunitného centra, kanceláriu, sklad nábytku a s
 
 ### III. Priestor na druhom poschodí budovy prislúcha ďalším aktivitám: popoludňajšie krúžky pre deti, priestor možno využiť ako nízko- prahové zariadenie pre deti a mládež, alebo môže byť plocha využiteľná pri náhlej priestorovej núdzi.
 
-### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464584/uploads/2-ondrej11.jpg)IV. Je nutné urobiť zmeny na fasáde, pretože tu chýba zasklenie otvorov z tvaroviek Copylit. Účelné je nahradiť sklo lacnými priesvitnými polykarbonátovými doskami Makrolon, ktoré takisto majú vhodný tepelný odpor. Súčasne je nutné vybúrať do stien kotolne vstupy do priestoru, kde prebieha starostlivosť o deti a do kultúrneho priestoru.
+### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464584/uploads/2-ondrej11.jpg)
 
-### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464707/uploads/2-ondrej12-1.jpg)V. Okolitý pozemok patriaci mestu by mohol ľahko slúžiť ako komunitná záhrada a súčasne by mal poskyt- núť deťom priestor pre vonkajšie aktivity a prácu na záhrade. Na prázdny pozemok je nutné vysádzať stromy a pod stromami vykopať záhony.
+### IV. Je nutné urobiť zmeny na fasáde, pretože tu chýba zasklenie otvorov z tvaroviek Copylit. Účelné je nahradiť sklo lacnými priesvitnými polykarbonátovými doskami Makrolon, ktoré takisto majú vhodný tepelný odpor. Súčasne je nutné vybúrať do stien kotolne vstupy do priestoru, kde prebieha starostlivosť o deti a do kultúrneho priestoru.
+
+### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464707/uploads/2-ondrej12-1.jpg)
+
+### V. Okolitý pozemok patriaci mestu by mohol ľahko slúžiť ako komunitná záhrada a súčasne by mal poskyt- núť deťom priestor pre vonkajšie aktivity a prácu na záhrade. Na prázdny pozemok je nutné vysádzať stromy a pod stromami vykopať záhony.
 
 ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464795/uploads/2-ondrej14.jpg)
 
-### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464734/uploads/2-ondrej13.jpg)VI. Založenie družstva, kúpa domu, mesto daruje priliehajúci pozemok družstvu.
+### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464734/uploads/2-ondrej13.jpg)
+
+### VI. Založenie družstva, kúpa domu, mesto daruje priliehajúci pozemok družstvu.
