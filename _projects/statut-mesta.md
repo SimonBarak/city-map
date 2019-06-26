@@ -5,8 +5,8 @@ image: "/v1561280981/uploads/Screenshot%202019-06-23%20at%2011.09.21.png"
 icon: "/v1561022870/uploads/icon-mole.jpg"
 name: Štatút mesta
 title: statut-mesta
-lat: 48.207465
-lon: 19.348551
+lat: 48.217396
+lon: 19.322164
 author: Lumír Nykl
 categories: ''
 excerpt: Život krta, to je temný svet pod zemou bez prívodu denného svetla a slnečných
