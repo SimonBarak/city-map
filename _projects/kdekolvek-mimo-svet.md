@@ -6,8 +6,8 @@ icon: "/v1561022812/uploads/icon-clock.jpg"
 name: 'Kdekoľvek mimo svet: ekonómia plytvania, nepodmienené slnenie a odpočinok ako
   zbraň'
 title: kdekolvek-mimo-svet
-lat: '48.210210'
-lon: 19.339614
+lat: '48.209510'
+lon: '19.340740'
 author: Noemi Purkrabková a Jiří Sirůček
 categories: ''
 excerpt: 'Nápad na tento text sa zrodil jedného horúceho letného dňa na bio-kúpalisku
