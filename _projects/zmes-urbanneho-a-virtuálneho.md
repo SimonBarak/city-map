@@ -5,8 +5,8 @@ image: "/v1561373225/uploads/dog.jpg"
 icon: "/v1561022896/uploads/icon-family.jpg"
 name: Zmes urbánneho a virtuálneho
 title: zmes-urbanneho-a-virtuálneho
-lat: 48.219912
-lon: 19.354866
+lat: 48.209233
+lon: 19.348909
 author: Martina Růžičková
 excerpt: S verejnými (park, námestie) a polo-verejnými hmotnými priestormi (športovisko,
   ihrisko, kúpalisko), sa súčasne vyvíja i virtuálny verejný a polo-verejný priestor
