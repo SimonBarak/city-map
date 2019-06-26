@@ -5,8 +5,8 @@ icon: "/v1561022896/uploads/icon-family.jpg"
 title: sidlisko-a-rozcestnik
 categories: ''
 language: ''
-lat: 48.210131
-lon: 19.346933
+lat: 48.206561
+lon: 19.340057
 author: 'Martina Růžičková '
 name: Sídlisko a rozcestník
 excerpt: V roku 1950 sa v tesnej blízkosti vtedajšej obce Veľký Krtíš začalo stavať
