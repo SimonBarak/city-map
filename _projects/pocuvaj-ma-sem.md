@@ -5,8 +5,8 @@ image: "/v1561226250/uploads/Screenshot%202019-06-22%20at%2019.57.14.png"
 icon: "/v1561367956/uploads/icon-city.jpg"
 name: Počúvaj ma sem
 title: pocuvaj-ma-sem
-lat: '48.211990'
-lon: 19.345587
+lat: '48.205990'
+lon: 19.348382
 author: Kristína Jamrichová
 categories: ''
 excerpt: Som Veľký Krtíš. Štatút mesta som získal v roku 1968. Život vo mne sa však
