@@ -10,8 +10,8 @@ if (mapEl) {
     container: "map",
     style: "mapbox://styles/lonerscompany/cjwjajpvb1ly61cnqacst6b3k",
     center: [19.34928, 48.208772],
-    zoom: 14,
-    minZoom: 13,
+    zoom: 13,
+    minZoom: 7,
     maxZoom: 18
   });
 
