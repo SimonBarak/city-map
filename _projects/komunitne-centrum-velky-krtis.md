@@ -5,8 +5,8 @@ image: "/v1561464403/uploads/2-ondrej8.jpg"
 icon: "/v1561022852/uploads/icon-plant.jpg"
 name: Komunitné centrum Veľký Krtíš
 title: komunitne-centrum-velky-krtis
-lat: 48.207394
-lon: 19.355385
+lat: 48.207383
+lon: 19.355737
 author: Ondřej Vaněk
 categories: ''
 excerpt: Projekt navrhuje prestavbu bývalej kotolne na rohu ulíc Novohradská a
@@ -22,15 +22,15 @@ excerpt: Projekt navrhuje prestavbu bývalej kotolne na rohu ulíc Novohradska
 
 ### II. Centrum je možné budovať po moduloch, je totiž rozsiahle a malo by obsahovať množstvo špecializovaných priestorov:
 
-A. Modul pre starostlivosť o deti. Obsahuje priestor pre hru, šatňu, kuchyňu, zázemie pre vychová- vateľov, toaletu pre deti a schody do prvého poschodia.
+A. Modul pre starostlivosť o deti. Obsahuje priestor pre hru, šatňu, kuchyňu, zázemie pre vychovávateľov, toaletu pre deti a schody do prvého poschodia.
 
-B. Priestor na rozšírenie kuchyne, sklad, hygienické zázemie pre kuchyňu, novú kanceláriu komunit- ného centra menšín.
+B. Priestor na rozšírenie kuchyne, sklad, hygienické zázemie pre kuchyňu, novú kanceláriu komunitného centra menšín.
 
 C. Spoločný priestor komunitného centra, kanceláriu, sklad nábytku a schodisko do prvého poschodia.
 
 ### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464545/uploads/2-ondrej10.jpg)
 
-### III. Priestor na druhom poschodí budovy prislúcha ďalším aktivitám: popoludňajšie krúžky pre deti, priestor možno využiť ako nízko- prahové zariadenie pre deti a mládež, alebo môže byť plocha využiteľná pri náhlej priestorovej núdzi.
+### III. Priestor na druhom poschodí budovy prislúcha ďalším aktivitám: popoludňajšie krúžky pre deti, priestor možno využiť ako nízkoprahové zariadenie pre deti a mládež, alebo môže byť plocha využiteľná pri náhlej priestorovej núdzi.
 
 ### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464584/uploads/2-ondrej11.jpg)
 
@@ -38,7 +38,7 @@ C. Spoločný priestor komunitného centra, kanceláriu, sklad nábytku a s
 
 ### ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464707/uploads/2-ondrej12-1.jpg)
 
-### V. Okolitý pozemok patriaci mestu by mohol ľahko slúžiť ako komunitná záhrada a súčasne by mal poskyt- núť deťom priestor pre vonkajšie aktivity a prácu na záhrade. Na prázdny pozemok je nutné vysádzať stromy a pod stromami vykopať záhony.
+### V. Okolitý pozemok patriaci mestu by mohol ľahko slúžiť ako komunitná záhrada a súčasne by mal poskytnúť deťom priestor pre vonkajšie aktivity a prácu na záhrade. Na prázdny pozemok je nutné vysádzať stromy a pod stromami vykopať záhony.
 
 ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561464795/uploads/2-ondrej14.jpg)
 
