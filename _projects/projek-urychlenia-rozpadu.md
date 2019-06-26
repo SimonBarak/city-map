@@ -5,8 +5,8 @@ image: "/v1561463748/uploads/2-ondrej7.jpg"
 icon: "/v1561022852/uploads/icon-plant.jpg"
 name: Projekt urýchlenia rozpadu
 title: projekt-urychlenia-rozpadu
-lat: 48.207031
-lon: 19.35552
+lat: 48.206979
+lon: 19.355595
 author: Ondřej Vaněk
 excerpt: Panelový dom Žlťák je bývalým internátom. V malých bytoch sa nájomcovia
   tiesnia. Je ich viac ako by malo.
