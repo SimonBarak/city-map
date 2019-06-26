@@ -1,6 +1,6 @@
 ---
 layout: home
 icon: "/v1561367956/uploads/icon-city.jpg"
----
 
-Čo znamená tráviť svoj voľný čas v meste? Jaká je minulosť, súčasnosť a budúcnosť mesta Veľký Krtíš? Tieto stránky obsahujú články v ktorých sa skupina teoretikov a dizajnérov snaží na tieto otázky nájsť odpovede.
+---
+Uvažujeme o súčasných podobách a budúcich možných scenároch vývoja mesta (typu) Veľký Krtíš s jeho užívateľmi, priestorom, vzťahmi. RUVK sa snaží byť alternatívou k tradičným predstavám o mestskom rozvoji na úrovni jazyka aj technológie.
