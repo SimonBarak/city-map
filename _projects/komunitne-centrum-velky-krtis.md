@@ -5,8 +5,8 @@ image: "/v1561464403/uploads/2-ondrej8.jpg"
 icon: "/v1561022852/uploads/icon-plant.jpg"
 name: Komunitné centrum Veľký Krtíš
 title: komunitne-centrum-velky-krtis
-lat: 48.207028
-lon: 19.35568
+lat: 48.207394
+lon: 19.355385
 author: Ondřej Vaněk
 categories: ''
 excerpt: Projekt navrhuje prestavbu bývalej kotolne na rohu ulíc Novohradská a
