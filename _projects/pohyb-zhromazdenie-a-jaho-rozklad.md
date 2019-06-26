@@ -5,8 +5,8 @@ image: "/v1561370807/uploads/dlznici1.jpg"
 icon: "/v1561022896/uploads/icon-family.jpg"
 name: Pohyb, zhromaždenie a jeho rozklad
 title: pohyb-zhromazdenie-a-jeho-rozklad
-lat: 48.208317
-lon: 19.350993
+lat: 48.214324
+lon: 19.350923
 author: Martina Růžičková
 categories: ''
 excerpt: Po páde komunizmu sa, žiaľ, naplno prejavili dôsledky územ- ného plánovania,
