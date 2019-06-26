@@ -5,8 +5,8 @@ image: "/v1561225730/uploads/Screenshot%202019-06-22%20at%2019.48.35.png"
 icon: "/v1561022896/uploads/icon-family.jpg"
 name: Obálky a pásky
 title: obalky-a-pasky
-lat: 48.205257
-lon: '19.350670'
+lat: 48.207456
+lon: 19.348577
 author: Martina Růžičková
 categories: ''
 excerpt: 'Na území mesta sa tvoria obálky. Obálku si môžeme predstaviť ako hmotnú,
