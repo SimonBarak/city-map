@@ -3,8 +3,8 @@ language: sk
 layout: post
 image: "/v1561463748/uploads/2-ondrej7.jpg"
 icon: "/v1561022852/uploads/icon-plant.jpg"
-name: Projek urýchlenia rozpadu
-title: projek-urychlenia-rozpadu
+name: Projekt urýchlenia rozpadu
+title: projekt-urychlenia-rozpadu
 lat: 48.207031
 lon: 19.35552
 author: Ondřej Vaněk
@@ -25,7 +25,7 @@ categories: ''
 
 ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561463599/uploads/2-ondrej5.jpg)
 
-### III. Projekt pre urýchlenie rozpadu umožňuje priame, autonómne a kon- taktné rozhodovanie o načasovaní skazy domu s pomocou injektáže náletových drevín do fasády domu.
+### III. Projekt pre urýchlenie rozpadu umožňuje priame, autonómne a kontaktné rozhodovanie o načasovaní skazy domu s pomocou injektáže náletových drevín do fasády domu.
 
 ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561463700/uploads/2-ondrej6.jpg)
 
@@ -35,6 +35,6 @@ categories: ''
 
 ![](https://res.cloudinary.com/dhxmg9p4i/image/upload/c_scale,w_740/v1561463748/uploads/2-ondrej7.jpg)
 
-### VII. Aby mohla rastlina obmedzená neprívetivým prostredím betónu ďalej expandovať, je vhodné pripevniť k injekcii vak so zeminou a ten potom pravidelne zalievať.
+### VI. Aby mohla rastlina obmedzená neprívetivým prostredím betónu ďalej expandovať, je vhodné pripevniť k injekcii vak so zeminou a ten potom pravidelne zalievať.
 
-### VIII. Rastliny poškodia statiku domu a tak ešte viac obmedzia jeho obývateľnosť.
+### VII. Rastliny poškodia statiku domu a tak ešte viac obmedzia jeho obývateľnosť.
