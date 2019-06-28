@@ -28,7 +28,7 @@ collections:
     output: true
 
 # images and cloudinary
-img_url: "https://res.cloudinary.com/dhxmg9p4i/image/upload/"
+img_url: "https://res.cloudinary.com/dhxmg9p4i/image/upload"
 # c_limit,h_512,w_512/v1560445161/uploads/simi-obrazek.png
 
 # Build settings
