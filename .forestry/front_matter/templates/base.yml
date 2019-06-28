@@ -9,5 +9,10 @@ fields:
   name: icon
   label: icon
   description: homepage icon
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
 pages:
 - index.md
