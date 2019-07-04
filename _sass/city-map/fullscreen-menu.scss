@@ -35,8 +35,12 @@
 
 .site-nav {
   @include relative-font-size(1.625);
-  margin: 40px 0;
+  margin: 20vh 0 10vh 0;
   float: none;
+
+  @media (min-width: 600px) {
+    margin: 20vh 0 10vh 0;
+  }
 }
 
 $c-goto: rgba(0, 220, 100, 1);

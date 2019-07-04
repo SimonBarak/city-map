@@ -24,6 +24,10 @@
   }
 }
 
+.icon-md {
+  max-width: 6rem;
+}
+
 .site-nav {
   float: right;
   line-height: inherit;
@@ -47,13 +51,13 @@
   }
 
   @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
+    // position: absolute;
+    // top: 9px;
+    // right: $spacing-unit / 2;
+    // background-color: $background-color;
+    // border: 1px solid $grey-color-light;
+    // border-radius: 5px;
+    //text-align: right;
 
     label[for="nav-trigger"] {
       display: block;
@@ -120,7 +124,7 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
+  @include relative-font-size(1.2);
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;

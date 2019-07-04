@@ -9,6 +9,7 @@
 }
 
 .control-container {
+  z-index: 100;
   @media (min-width: 960px) {
     box-shadow: 2px 2px 8px #787882;
     overflow-y: scroll;
