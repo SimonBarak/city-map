@@ -18,8 +18,8 @@ lang: sk
 email: ruvk2028@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Uvažujeme o súčasných podobách a budúcich možných scenároch vývoja mesta (typu) Veľký Krtíš s jeho užívateľmi, priestorom, vzťahmi. RUVK sa snaží byť alternatívou k tradičným predstavám o mestskom rozvoji na úrovni jazyka aj technológie.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ruvk.info" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/city-map" # the subpath of your site, e.g. /blog
+url: "https://lonerscompany.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lonersCompany
 facebook_username: ruvk2028
 show_excerpts: true
