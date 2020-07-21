@@ -62,12 +62,12 @@ fields:
   hidden: true
   default: post
 pages:
-- _projects/projek-urychlenia-rozpadu.md
-- _projects/komunitne-centrum-velky-krtis.md
-- _projects/zmes-urbanneho-a-virtuálneho.md
 - _projects/kdekolvek-mimo-svet.md
+- _projects/komunitne-centrum-velky-krtis.md
+- _projects/obalky-a-pasky.md
+- _projects/pocuvaj-ma-sem.md
+- _projects/pohyb-zhromazdenie-a-jaho-rozklad.md
+- _projects/projek-urychlenia-rozpadu.md
 - _projects/sidlisko-a-rozcestnik.md
 - _projects/statut-mesta.md
-- _projects/pocuvaj-ma-sem.md
-- _projects/obalky-a-pasky.md
-- _projects/pohyb-zhromazdenie-a-jaho-rozklad.md
+- _projects/zmes-urbanneho-a-virtuálneho.md
